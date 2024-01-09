@@ -1,16 +1,7 @@
-# flutter_app
+# simple_dice_roller
 
-A new Flutter project.
+A simple dice roller application, built using Flutter.
 
-## Getting Started
+This app was created as part of the Flutter & Dart - The Complete Guide [2024 Edition] course, by Maximilian Schwarzmüller.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have added my own functionality, allowing the user to add up to 6 dice and roll them simultaneously.
